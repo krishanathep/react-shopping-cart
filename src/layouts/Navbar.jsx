@@ -9,7 +9,7 @@ export class Navbar extends Component {
         <nav className="navbar navbar-expand-lg bg-primary navbar-dark fixed-top">
           <div className="container">
             <Link to="/" className="navbar-brand">
-              Shopping Cart
+              React Shopping Cart
             </Link>
             <ul className="navbar-nav ml-auto">
               <li className="nav-item">
